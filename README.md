@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👋
+# Hi, I'm Ivan
 
 I'm a Computer Science student at Sacramento State interested in software development, backend systems, and cloud technologies.
 
