@@ -22,4 +22,3 @@ A campus workflow application for enrollment verification and academic appeals. 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ivanlib/)
-- [GitHub](https://github.com/ivanlib)
